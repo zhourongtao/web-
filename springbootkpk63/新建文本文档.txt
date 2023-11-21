@@ -1,0 +1,3 @@
+http://localhost:8080/springbootkpk63/front/index.html
+admin	
+admin
